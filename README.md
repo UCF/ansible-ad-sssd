@@ -1,1 +1,1 @@
-# ansible-ad-sssd
+# ansible-role-ad-sssd
